@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/RCTMap.m \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/RCTMap.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/RCTConvert+MapKit.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/RCTMapAnnotation.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/RCTMapOverlay.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Views/UIView+React.h

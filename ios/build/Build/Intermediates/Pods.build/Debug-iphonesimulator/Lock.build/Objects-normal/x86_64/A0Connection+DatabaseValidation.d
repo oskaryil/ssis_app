@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/Private/A0Connection+DatabaseValidation.m \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Target\ Support\ Files/Lock/Lock-prefix.pch \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/Private/A0Connection+DatabaseValidation.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/CocoaPods/Lock.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0APIClient.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0APIRouter.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0Lock.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0APIClientProvider.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0AuthenticatorProvider.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0Telemetry.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0UserAPIClient.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0Application.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0Strategy.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0Connection.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0Errors.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0ErrorCode.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0Token.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0UserProfile.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0IdentityProviderCredentials.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Provider/A0IdentityProviderAuthenticator.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Provider/A0BaseAuthenticator.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Provider/A0AuthenticationProvider.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0AuthParameters.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0UserIdentity.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0LockLogger.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0LockNotification.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/UI.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0LockViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0ContainerViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0KeyboardEnabledView.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0LockEventDelegate.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0LockSignUpViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0Lock+A0LockViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/CoreUI/A0Theme.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/CoreUI/A0ServiceTheme.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/TouchID/A0TouchIDLockViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/TouchID/A0Lock+A0TouchIDLockViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/SMS/A0Lock+A0SMSLockViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/SMS/A0SMSLockViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Email/A0Lock+A0EmailLockViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Email/A0EmailLockViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/WebView/A0WebViewAuthenticator.h

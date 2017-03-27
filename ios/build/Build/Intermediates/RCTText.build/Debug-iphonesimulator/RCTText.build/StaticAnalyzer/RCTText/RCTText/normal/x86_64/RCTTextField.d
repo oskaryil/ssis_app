@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/Libraries/Text/RCTTextField.m \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/Libraries/Text/RCTTextField.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/Libraries/Text/RCTTextSelection.h
