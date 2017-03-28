@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Release-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Release-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Release-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/React/Base/RCTUtils.h

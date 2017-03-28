@@ -3,6 +3,7 @@ import { Scene, Router } from 'react-native-router-flux';
 import Home from './components/Home';
 import LunchMenu from './components/LunchMenu';
 import LoginScreen from './components/LoginScreen';
+import Profile from './components/Profile';
 
 const RouterComponent = () => {
   return (
@@ -22,6 +23,11 @@ const RouterComponent = () => {
         key="loginScreen"
         component={LoginScreen}
         title="Login"
+      />
+      <Scene
+        key="profile"
+        component={Profile}
+        title="Profil"
       />
     </Router>
   );

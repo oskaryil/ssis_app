@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0LockEventDelegate.m \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Target\ Support\ Files/Lock/Lock-prefix.pch \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0LockEventDelegate.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0LockViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0ContainerViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0KeyboardEnabledView.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0LockNotification.h

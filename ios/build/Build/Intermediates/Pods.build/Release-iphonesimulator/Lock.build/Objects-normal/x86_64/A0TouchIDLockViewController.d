@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/TouchID/A0TouchIDLockViewController.m \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Target\ Support\ Files/Lock/Lock-prefix.pch \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/TouchID/A0TouchIDLockViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain+KeyPair.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/TouchIDAuth/TouchIDAuth/A0TouchIDAuthentication.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/TouchID/Private/A0TouchIDRegisterViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0ContainerViewController.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/A0KeyboardEnabledView.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0APIClient.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0APIRouter.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0AuthParameters.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0UserProfile.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0Token.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0UserAPIClient.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/CoreUI/A0Theme.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/CoreUI/A0ServiceTheme.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/UI/Private/A0TitleView.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0Lock.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0APIClientProvider.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/A0AuthenticatorProvider.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/Private/NSObject+A0APIClientProvider.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Utils/UIConstants.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/CoreUI/A0Alert.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/Private/Constants.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/Private/A0Logging.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/Core/Private/A0Logger.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Lock/Lock/TouchID/A0KeyUploader.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/Masonry.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/MASUtilities.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/View+MASAdditions.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/MASConstraintMaker.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/MASConstraint.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/MASViewAttribute.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/View+MASShorthandAdditions.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/ViewController+MASAdditions.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/NSArray+MASAdditions.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/NSArray+MASShorthandAdditions.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/MASCompositeConstraint.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/MASViewConstraint.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/MASLayoutConstraint.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h

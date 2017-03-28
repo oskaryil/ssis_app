@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.m \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/oskar/Documents/Coding/ssis_app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTLog.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAssert.h \
+  /Users/oskar/Documents/Coding/ssis_app/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTDefines.h

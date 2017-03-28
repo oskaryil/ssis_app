@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 import { View, Text, TouchableHighlight, Alert } from 'react-native';
 import Auth0Lock from 'react-native-lock';
+import { Input, Card, CardSection, Button } from './common';
+import axios from 'axios';
+import qs from 'qs';
+import { Actions } from 'react-native-router-flux';
 
 const lock = new Auth0Lock({clientId: "UL0g6a8ogTTe0j0zkNsYwQNx7pkQiuCI", domain: "oskaryil.eu.auth0.com"});
 
@@ -23,10 +27,31 @@ const TokenView = (props) => {
 class LoginScreen extends Component {
 
   state = {
-    logged: false
+    logged: false,
+    username: '',
+    password: '',
+    loading: false
   };
 
   componentWillMount() {
+  }
+
+  onButtonPress() {
+    axios.post('https://api.ssis.nu/login/', qs.stringify({
+      user: this.state.username,
+      pass: this.state.password
+    }), {
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded'
+      }
+    })
+    .then(response => {
+      if(response.data.result === "OK" && response.data.user) {
+        console.log('User authenticated');
+        Actions.profile({username: response.data.user});
+      }
+    })
+    .catch(err => console.log(err));
   }
 
   showLock() {
@@ -119,16 +144,31 @@ _onUserInfo() {
       );
     }
     return (
-      <View style={styles.container}>
-        <Text style={styles.message}>
-          Please tap on 'Show Lock' to continue.
-        </Text>
-        <View style={styles.actionContainer}>
-          <TouchableHighlight style={styles.actionButton} onPress={this._onShowLock.bind(this)}>
-            <Text style={styles.actionButtonText}>Show Lock</Text>
-          </TouchableHighlight>
-        </View>
-      </View>
+        <Card>
+          <CardSection>
+            <Input
+              label="User"
+              placeholder="Användarnamn"
+              value={this.state.username}
+              onChangeText={username => this.setState({ username })}
+            />
+          </CardSection>
+          <CardSection>
+            <Input
+              label="Password"
+              placeholder="Lösenord"
+              value={this.state.password}
+              onChangeText={password => this.setState({ password })}
+              secureTextEntry
+            />
+          </CardSection>
+          <CardSection>
+            <Button onPress={this.onButtonPress.bind(this)}>
+              Login
+            </Button>
+
+          </CardSection>
+        </Card>
     );
   }
 }
@@ -136,7 +176,6 @@ _onUserInfo() {
 const styles = {
   container: {
     flex: 1,
-    flexDirection: 'column',
     backgroundColor: '#F5FCFF',
     paddingTop: 54
   },
