@@ -3,6 +3,7 @@ import { ListView, View, Text, TouchableWithoutFeedback, Fetch } from 'react-nat
 import axios from 'axios';
 import { Actions } from 'react-native-router-flux';
 import qs from 'qs';
+import iso885915 from 'iso-8859-15';
 import  { Card, CardSection, ColorfulSection } from './common';
 
 class Home extends Component {
@@ -23,11 +24,6 @@ class Home extends Component {
     // const params = new URLSearchParams();
     // params.append('user', '15bayi');
     // params.append('pass', 'Stufuck341');
-
-    const params = {
-      user: '15bayi',
-      pass: 'Stufuck341'
-    };
 
     const formData = new FormData();
     // for(var k in params) {
@@ -57,8 +53,10 @@ class Home extends Component {
   //
   renderPentry() {
     if(this.state.pentry) {
+      console.log(iso885915.decode(this.state.pentry.join(': ')));
       return (
-        this.state.pentry.join(': ')
+        iso885915.decode(this.state.pentry.join(': '))
+        // iso885915.encode(this.state.pentry.join(': '))
       );
     }
   }
